@@ -1,0 +1,20 @@
+/* .introtext {
+    background-color: blue;
+} */
+.title {
+    color: white;
+}
+.welcome {
+    color: white;
+}
+.container {
+    display: flex;
+}
+.logo {
+ background-color: blue;
+}
+h4 {
+    display: flex;
+    flex-direction: column;
+
+}
